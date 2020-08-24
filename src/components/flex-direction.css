@@ -1,0 +1,11 @@
+
+  .item {
+    font-size: 2rem; /* valor relativo: em - calculado em cima da tag pai, rem - calculado em cima a tag body ou html */
+    line-height: 1; /* especifica a altura da linha */
+    text-align: center;
+    padding: 3rem;
+    background: mistyrose;
+    border: 3px solid tomato;
+    color: tomato;
+    margin: 6px;
+  }
